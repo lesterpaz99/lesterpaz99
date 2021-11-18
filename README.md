@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obed-paz-5b1379207/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesterpaz99@gmail.com)
 -----
-I'm a Software Ingenieer student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Software Engineer Student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at Universidad de San Pedro Sula USAP.
+- 🔭 I’m currently a CS student at **Universidad de San Pedro Sula USAP**.
 - 📚 I’m enjoy learning full-stack development focus on the Frontend.
 - 👯 Looking forward to build mobile apps as well in the future. 📱
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/62860279/142360238-a56aba68-ea41-4e3b-a1df-54f3c7f6e574.gif" />
