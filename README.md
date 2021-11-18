@@ -6,7 +6,7 @@
 I'm a Software Engineer Student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at **Universidad de San Pedro Sula USAP**.
-- 📚 I’m enjoy learning full-stack development focus on the Frontend.
+- 📚 I enjoy learning full-stack development focus on the Frontend.
 - 👯 Looking forward to build mobile apps as well in the future. 📱
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/62860279/142360238-a56aba68-ea41-4e3b-a1df-54f3c7f6e574.gif" />
 
