@@ -6,9 +6,9 @@
 -----
 
 
-I'm a Software Engineer Student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Software Engineer who is passionate about writing code, solving problems, automating stuff, and building software.
 
-I enjoy learning full-stack development focus on the Frontend.
+I enjoy doing full-stack development, however I mainly focus on the Frontend.
 
 
 <a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/lesterpaz99/lesterpaz99/blob/main/devcard.svg" width="400" alt="Obed Paz's Dev Card"/></a>
